@@ -8,3 +8,4 @@ I have tested this with the following devices and browsers:
 
 * iPhone/iPad safari
 * Mac - Chrome and Firefox
+* Kindle Fire - Firefox
